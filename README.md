@@ -17,9 +17,7 @@ The official code of paper "CORE: Lossless Compression for Retrieval-Augmented L
     Ensure this `config_path` variable points to the correct location of your modified `reward.yaml` file.
 
 ## Start RL Training
-
-    ```bash
-    cd verl_core
-    sh examples/grpo_trainer/run_qwen2.5-1.5b_compress_nq.sh
-    ```
-
+```bash
+cd verl_core
+sh examples/grpo_trainer/run_qwen2.5-1.5b_compress_nq.sh
+```
