@@ -18,4 +18,9 @@ The official code of paper "CORE: Lossless Compression for Retrieval-Augmented L
 
 ## Start RL Training
 
-sh examples/grpo_trainer/run_qwen2.5-1.5b_compress_nq.sh
+    ```python
+    cd verl_core
+    sh examples/grpo_trainer/run_qwen2.5-1.5b_compress_nq.sh
+    ```
+
+
